@@ -1,4 +1,4 @@
-* Introducing "Taste and Trails" – A Simple Yet Elegant Restaurant Website! *
+Introducing "Taste and Trails" – A Simple Yet Elegant Restaurant Website! 
 
 Excited to share my latest project, a minimalist restaurant website named "Taste and Trails", built using HTML and CSS.
 
